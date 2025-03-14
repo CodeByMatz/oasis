@@ -48,7 +48,7 @@
     left: 0;
     width: 450px;
     height: 240px;
-    background-color: #ffffff;
+    background-color: #aa0000;
     z-index: 1;
     box-shadow: 30px 10px 2px #00000093;
        text-decoration: none;
@@ -60,7 +60,7 @@
     left: 20px;
     width: 410px;
     height: 200px;
-    background-color: #000000;
+    background-color: #d80404;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -115,7 +115,7 @@ transform: scale(1.2);
   }
 
   body {
-    background-color: #000;
+    background-color: #c90101;
     color: #fff;
     width: 100vw;
     height: 100vh;
@@ -265,7 +265,7 @@ transform: scale(1.2);
     left: 20px;
     width: 410px;
     height: 200px;
-    background-color: #000000;
+    background-color: #0068df;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -286,7 +286,7 @@ transform: scale(1.2);
     padding: 0px 40px;
     z-index: 3;
     font-style: italic;
-    background-color: #000000;
+    background-color: #0068df;
   }
   
   .container:hover {
